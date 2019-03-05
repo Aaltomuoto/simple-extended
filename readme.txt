@@ -1,5 +1,6 @@
 Theme 'simple-extended' v1.5 - 07-08-2018, by Jeroen Ophof
 Based on 'Simple' (c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://blog.nilsbyte.de/
+With elements from Tronkyfran theme by [Tronkyfran](https://github.com/tronkyfran), [Herb Fargus](https://github.com/HerbFargus) and [Rael G.C.](https://github.com/raelgc/).
 For use with EmulationStation (http://www.emulationstation.org/)
 
 
